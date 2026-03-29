@@ -2,8 +2,8 @@
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/your-username/code-whisperer-cli/actions)
-[![Stars](https://img.shields.io/github/stars/your-username/code-whisperer-cli?style=social)](https://github.com/your-username/code-whisperer-cli/stargazers)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/danielziv94/code-whisperer-cli/actions)
+[![Stars](https://img.shields.io/github/stars/danielziv94/code-whisperer-cli?style=social)](https://github.com/danielziv94/code-whisperer-cli/stargazers)
 
 ## Description
 The Code Whisperer CLI is an innovative command-line interface tool designed to supercharge developer productivity. Leveraging the power of large language models (LLMs), it generates concise and accurate code snippets in various programming languages based on natural language prompts. This utility acts as an intelligent developer assistant, significantly reducing cognitive load by quickly providing boilerplate code, recalling specific syntax, or offering architectural patterns, allowing developers to focus on core logic and problem-solving.
@@ -29,7 +29,7 @@ To get Code Whisperer CLI up and running on your local machine, follow these ste
 
 1.  **Clone the repository:**
     bash
-    git clone https://github.com/your-username/code-whisperer-cli.git
+    git clone https://github.com/danielziv94/code-whisperer-cli.git
     cd code-whisperer-cli
     
 2.  **Create and activate a virtual environment:**
@@ -90,7 +90,7 @@ We welcome contributions to the Code Whisperer CLI! If you'd like to improve the
 1.  **Fork the repository:** Start by forking the `code-whisperer-cli` repository to your GitHub account.
 2.  **Clone your fork:**
     bash
-    git clone https://github.com/your-username/code-whisperer-cli.git
+    git clone https://github.com/danielziv94/code-whisperer-cli.git
     cd code-whisperer-cli
     3.  **Create a new branch:**
     bash
@@ -115,7 +115,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 MIT License
 
-Copyright (c) [Year] [Your Name or Project Maintainer]
+Copyright (c) 2026 Daniel Ziv
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
